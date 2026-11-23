@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Lukas 👋
+# Hi there, I'm Lukas
 
-**Fachinformatiker für Systemintegration** · 📍 **Unterallgäu, DE**
+**Fachinformatiker für Systemintegration** · **Unterallgäu, DE**
 
 *Inhaber von **LKR-Service** | Co-Inhaber & Founder von **Florian Feuerwehrmanagement** | Founder von **Oldcraften Networks***
 
@@ -16,17 +16,17 @@
 
 ---
 
-### 👨‍💻 Über mich
+### Über mich
 
 Ich bin **Lukas Kretschmer**, ausgebildeter **Fachinformatiker für Systemintegration** aus dem **Unterallgäu (DE)**. Unter meinem Label **LKR-Service** setze ich eigene IT-, Infrastruktur- und Software-Projekte um. Mein Schwerpunkt liegt auf moderner Server-Infrastruktur, Netzwerksicherheit, Administration und der technischen Entwicklung.
 
-* 🏢 **LKR-Service** – Mein Projekt-Label 
-* 🚒 **[Florian Feuerwehrmanagement](https://florian-management.de/)** – Co-Inhaber & Founder
-* ⛏️ **[Oldcraften Networks](https://oldcraften.eu/)** – Founder
+* **LKR-Service** – Mein Projekt-Label
+* **[Florian Feuerwehrmanagement](https://florian-management.de/)** – Co-Inhaber & Founder
+* **[Oldcraften Networks](https://oldcraften.eu/)** – Founder
 
 ---
 
-### 🚀 Meine Projekte
+### Meine Projekte
 
 <table>
   <tr>
@@ -53,54 +53,33 @@ Ich bin **Lukas Kretschmer**, ausgebildeter **Fachinformatiker für Systemintegr
 
 ---
 
-### 🛠️ Tech Stack & Infrastruktur
+### Tech Stack & Infrastruktur
 
 <div align="center">
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
 ![Sophos](https://img.shields.io/badge/Sophos-005BC8?style=flat-square&logo=sophos&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E1628?style=flat-square&logo=pterodactyl&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft_Server-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 
 </div>
 
 ---
 
-### 🏆 Zertifizierungen
+### Zertifizierungen
 
 <div align="center">
 
-![Sophos Certified](https://img.shields.io/badge/Sophos-Certified-005BC8?style=for-the-badge&logo=sophos&logoColor=white)
-![KI League Certified](https://img.shields.io/badge/KI_League-Certified-6A1B9A?style=for-the-badge&logo=openai&logoColor=white)
+![Sophos Certified](https://img.shields.io/badge/Sophos-Certified_(3x)-005BC8?style=for-the-badge&logo=sophos&logoColor=white)
+![KI League Certified](https://img.shields.io/badge/KI_League-Certified_(4x)-6A1B9A?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 <details>
-  <summary>📄 <b>Zertifikats-Nachweise anzeigen (Klicken zum Ausklappen)</b></summary>
+  <summary><b>Zertifikats-Nachweise anzeigen (Klicken zum Ausklappen)</b></summary>
   <br/>
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>Sophos Certified (1)</b><br/><br/>
-        <a href="https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781683744035appoutputcertificate7hFRcNiej3.pngL6mi.webp">
-          <img src="https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781683744035appoutputcertificate7hFRcNiej3.pngL6mi.webp" alt="Sophos Zertifikat 1" width="220"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <b>Sophos Certified (2)</b><br/><br/>
-        <a href="https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679600389appoutputcertificateEHjb4Yeui8.pnggr3u.webp">
-          <img src="https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679600389appoutputcertificateEHjb4Yeui8.pnggr3u.webp" alt="Sophos Zertifikat 2" width="220"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <b>KI League Certified</b><br/><br/>
-        <a href="https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679587692appoutputcertificateD4hNoJuqO9.pngosuu.webp">
-          <img src="https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679587692appoutputcertificateD4hNoJuqO9.pngosuu.webp" alt="KI League Zertifikat" width="220"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</details>
+
+  <h4>Sophos Certified</h4>
