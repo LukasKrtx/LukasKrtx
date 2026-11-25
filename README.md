@@ -94,6 +94,16 @@ Unter meinem Label **LKR-Service** betreibe ich eigene Server- und Hosting-Proje
 | <picture><img src="https://img.shields.io/badge/KI_League-4_Zertifikate-6A1B9A?style=flat-square" alt="KI League" /></picture> | Künstliche Intelligenz &amp; Security Awareness |
 
 <details>
+  <summary><b>Sophos-Nachweise anzeigen</b></summary>
+  <br />
+
+  [AT80 – Firewall Architect](https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781683744035appoutputcertificate7hFRcNiej3.pngL6mi.webp) ·
+  [ET80 – Firewall Engineer](https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679600389appoutputcertificateEHjb4Yeui8.pnggr3u.webp) ·
+  [ET13 – Threat Investigation](https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679587692appoutputcertificateD4hNoJuqO9.pngosuu.webp)
+
+</details>
+
+<details>
   <summary><b>KI-League-Nachweise anzeigen</b></summary>
   <br />
 
